@@ -1,0 +1,5 @@
+id,cnpj,razao_social,nome_fantasia,email,senha,telefone,endereco,segmento,data_cadastro
+1,16.626.952/0001-55,Unip lanchonete,UNIP,unip@email.com.br,unip123,0,rua 1,Serviços,2025-11-03T23:54:54.918874
+2,36.924.459/0001-29,Mais verde,Mais verde ,maisverde@emaiil.com,mais123,11987654321,Rua 2,Indústria,2025-11-04T20:15:00.106411
+3,56.724.920/0001-07,Sustenta AI LTDA,Sustenta AI,sustentaai@email.com,sustenta123,11994860289,RUA 3 ,Serviços,2025-11-04T20:19:24.646494
+4,30.773.408/0001-67,Recicla AI ME,Recicla AI,2,recicla123,000000000000,rua 4,Indústria,2025-11-04T23:30:04.119189
